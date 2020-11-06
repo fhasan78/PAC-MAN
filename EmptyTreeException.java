@@ -1,6 +1,6 @@
 /**
  * 
- * @author Fatima Hasan id 250895618	
+ * @author Fatima Hasan 	
  * This is an exception class that is thrown by the methods : largest and smallest in the binary
  * search tree.
  */

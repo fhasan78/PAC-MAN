@@ -1,6 +1,6 @@
 /**
  * 
- * @author Fatima Hasan id 250895618
+ * @author Fatima Hasan 
  * This class represents the position (x,y) of a pixel.
  */
 public class Location {
